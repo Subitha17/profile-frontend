@@ -5,9 +5,13 @@ function Projects() {
     <div className="page">
       <h2>Projects</h2>
 
-      <h3>Mobile Ordering Website</h3>
+      <h3>Contact Form</h3>
       <p>
-        Built using HTML, CSS, and JavaScript. Allows users to browse items, add to cart, and place orders.
+        Created and deployed a MERN-based Contact Form capturing user details (name, email, phone, address) with backend data storage using MongoDB.
+      </p>
+      <h3>Event Management</h3>
+      <p>
+        Created and deployed a full-featured Event Management platform using MERN stack with live event listings and MongoDB data storage.
       </p>
       <h3>Number Plate Detection</h3>
       <p>
